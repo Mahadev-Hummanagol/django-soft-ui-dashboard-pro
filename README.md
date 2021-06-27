@@ -35,7 +35,7 @@ The most complex and innovative Dashboard Made by Creative Tim: made of hundred 
 
 <br />
 
-![Soft UI Dashboard PR0 - Flask Seed Project.](https://user-images.githubusercontent.com/51070104/123518571-1f703400-d6af-11eb-8aab-cf1b9c5e2763.png)
+![Soft UI Dashboard PR0 - Django Seed Project generated with basic modules by AppSeed.](https://user-images.githubusercontent.com/51070104/123547150-3f176300-d768-11eb-9359-ad6611e19a3a.png)
 
 <br />
 
