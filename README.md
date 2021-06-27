@@ -1,6 +1,6 @@
-# [Soft UI Dashboard PRO](https://appseed.us/ui-kit/soft-ui-design-system) Django
+# Soft Dashboard PRO Django
 
-**Django Seed Project** provided by AppSeed on top of **Soft UI Dashboard PRO**, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple presentation websites on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
+**Django Seed Project** provided by AppSeed on top of **[Soft UI Dashboard PRO](https://appseed.us/product/django-soft-ui-dashboard-pro)**, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple presentation websites on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
 
 <br />
 
@@ -15,8 +15,8 @@
 
 > Links:
 
+- [Soft UI Dashboard PRO Django](https://appseed.us/product/django-soft-ui-dashboard-pro) - Product Page
 - [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - LIVE Demo
-- [Soft UI Dashboard PRO Django](#) - Product Page (coming soon)
 
 <br />
 
@@ -271,4 +271,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Soft UI Dashboard PRO](https://appseed.us/ui-kit/soft-ui-design-system) Django - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+Soft UI Dashboard PRO Django - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
