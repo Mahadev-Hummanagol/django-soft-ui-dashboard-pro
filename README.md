@@ -4,7 +4,7 @@
 
 <br />
 
-- UI Kit: **[Soft UI Dashboard PRO](https://bit.ly/2RtSXVa)** (Free Version) by **Creative-Tim**
+- UI Kit: **[Soft UI Dashboard](https://bit.ly/2RtSXVa)** (PRO Version) by **Creative-Tim**
 - SQLite Database, Django Native ORM
 - Modular design, clean codebase
 - Session-Based Authentication, Forms validation
