@@ -1,10 +1,9 @@
-# Soft Dashboard PRO Django
+# [Soft UI Dashboard](https://appseed.us/ui-kit/soft-ui-design-system) Django
 
-**Django Seed Project** provided by AppSeed on top of **[Soft UI Dashboard PRO](https://appseed.us/product/django-soft-ui-dashboard-pro)**, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple presentation websites on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
+**Django Seed Project** provided by AppSeed on top of **Soft UI Dashboard PRO**, a modern Bootstrap 5 design from Creative-Tim. The project might help beginners to code simple presentation websites on top of the existing codebase OR migrate the `production-ready` UI to a legacy Python-based project compatible with **Jinja Template Engine**: *Flask*, *Django*, *Bottle* of *FastAPI*. 
 
 <br />
 
-- UI Kit: **[Soft UI Dashboard](https://bit.ly/2RtSXVa)** (PRO Version) by **Creative-Tim**
 - SQLite Database, Django Native ORM
 - Modular design, clean codebase
 - Session-Based Authentication, Forms validation
@@ -15,15 +14,8 @@
 
 > Links:
 
-- [Soft UI Dashboard PRO Django](https://appseed.us/product/django-soft-ui-dashboard-pro) - Product Page
 - [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - LIVE Demo
-
-<br />
-
-## Buy Product (via PayPal)
-
-- **$99** - [Soft UI Dashboard PRO Django](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=PRUCB55EM58YW) - **[Personal License](https://github.com/app-generator/license-personal)**
-- **$79** - [Soft UI Dashboard PRO Django](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=32G74C8HJN2PN) - **[EDU License](https://github.com/app-generator/license-education)**
+- [Soft UI Dashboard PRO Django](#) - Product Page (coming soon)
 
 <br />
 
@@ -35,7 +27,7 @@ The most complex and innovative Dashboard Made by Creative Tim: made of hundred 
 
 <br />
 
-![Soft UI Dashboard PR0 - Django Seed Project generated with basic modules by AppSeed.](https://user-images.githubusercontent.com/51070104/123547150-3f176300-d768-11eb-9359-ad6611e19a3a.png)
+![Soft UI Dashboard PR0 - Flask Seed Project.](https://user-images.githubusercontent.com/51070104/123518571-1f703400-d6af-11eb-8aab-cf1b9c5e2763.png)
 
 <br />
 
@@ -110,16 +102,17 @@ The project is coded using a simple and intuitive structure presented bellow:
    |     page-500.html                     # Error 404 page
    |       *.html                          # All other HTML pages
    |
-   |-- authentication/                     # Handles auth routes (login and register)
+   |-- apps/
+   |    |-- authentication/                # Handles auth routes (login and register)
+   |    |    |
+   |    |    |-- urls.py                   # Define authentication routes  
+   |    |    |-- views.py                  # Handles login and registration  
+   |    |    |-- forms.py                  # Define auth forms  
    |    |
-   |    |-- urls.py                        # Define authentication routes  
-   |    |-- views.py                       # Handles login and registration  
-   |    |-- forms.py                       # Define auth forms  
-   |
-   |-- app/                                # A simple app that serve HTML files
-   |    |
-   |    |-- views.py                       # Serve HTML pages for authenticated users
-   |    |-- urls.py                        # Define some super simple routes  
+   |    |-- app/                           # A simple app that serve HTML files
+   |         |
+   |         |-- views.py                  # Serve HTML pages for authenticated users
+   |         |-- urls.py                   # Define some super simple routes  
    |
    |-- requirements.txt                    # Development modules - SQLite storage
    |
@@ -158,7 +151,7 @@ To recompile SCSS files, follow this setup:
 **Step #2** - Change the working directory to `assets` folder
 
 ```bash
-$ cd app/base/static/assets
+$ cd core/static/assets
 ```
 
 <br />
@@ -205,7 +198,7 @@ $ cd priv-django-soft-ui-dashboard-pro
 $ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
 ```
 
-Visit `http://localhost:5005` in your browser. The app should be up & running.
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 > Create Django `superuser` 
 
@@ -271,4 +264,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-Soft UI Dashboard PRO Django - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+[Soft UI Dashboard PRO](https://appseed.us/ui-kit/soft-ui-design-system) Django - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
