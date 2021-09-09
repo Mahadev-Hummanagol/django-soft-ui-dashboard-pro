@@ -4,6 +4,10 @@
 
 <br />
 
+> Features
+
+- Up-to-date [dependencies](./requirements.txt): **Django 3.2.6 LTS**
+- UI Kit: **[Soft UI Dashboard](https://bit.ly/2RtSXVa)** (PRO Version) provided by **Creative-Tim** 
 - SQLite Database, Django Native ORM
 - Modular design, clean codebase
 - Session-Based Authentication, Forms validation
