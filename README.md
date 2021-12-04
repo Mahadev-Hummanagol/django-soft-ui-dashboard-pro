@@ -6,7 +6,7 @@
 
 > Features
 
-- Up-to-date dependencies: **Django 3.2.6 LTS**
+- `Up-to-date dependencies`: **Django 3.2.6 LTS**
 - [SCSS compilation](#recompile-css) via **Gulp**
 - UI Kit: **[Soft UI Dashboard](https://bit.ly/2RtSXVa)** (PRO Version) provided by **Creative-Tim** 
 - SQLite Database, Django Native ORM
@@ -19,16 +19,29 @@
 
 > Links:
 
+- [Soft UI Dashboard PRO Django](https://appseed.us/product/django-soft-ui-dashboard-pro) - Product Page
 - [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - LIVE Demo
-- [Soft UI Dashboard PRO Django](#) - Product Page (coming soon)
 
 <br />
 
-## [Soft UI Dashboard PRO](https://bit.ly/2RtSXVa)
+## Quick Start in [Docker](https://www.docker.com/)
 
-The most complex and innovative Dashboard Made by Creative Tim: made of hundred of elements, designed blocks and fully coded pages, Soft UI Dashboard is ready to help you create stunning websites and web apps. 
+> Get the code
 
-**Fully Coded Elements** - Soft UI Dashboard PRO is built with over 300 frontend individual elements, like buttons, inputs, navbars, navtabs, cards or alerts, giving you the freedom of choosing and combining. All components can take variations in colour, that you can easily modify using SASS files and classes.
+```bash
+$ git clone https://github.com/app-generator/priv-django-soft-ui-dashboard-pro.git
+$ cd priv-django-soft-ui-dashboard-pro
+```
+
+> Start the app in Docker
+
+```bash
+$ docker-compose pull   # download dependencies 
+$ docker-compose build  # local set up
+$ docker-compose up -d  # start the app 
+```
+
+Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
@@ -182,38 +195,6 @@ The generated files (css, min.css) are saved in `static/assets/css` directory.
 ## Deployment
 
 The app is provided with a basic configuration to be executed in [Docker](https://www.docker.com/), [Gunicorn](https://gunicorn.org/), and [Waitress](https://docs.pylonsproject.org/projects/waitress/en/stable/).
-
-### [Docker](https://www.docker.com/) execution
----
-
-The application can be easily executed in a docker container. The steps:
-
-> Get the code
-
-```bash
-$ git clone https://github.com/app-generator/priv-django-soft-ui-dashboard-pro.git
-$ cd priv-django-soft-ui-dashboard-pro
-```
-
-> Start the app in Docker
-
-```bash
-$ sudo docker-compose pull && sudo docker-compose build && sudo docker-compose up -d
-```
-
-Visit `http://localhost:85` in your browser. The app should be up & running.
-
-> Create Django `superuser` 
-
-```bash
-$ # Get Container ID
-$ docker ps
-$ 
-$ # Call docker exec and CREATE the Superuser
-$ docker exec -it <APPSEED_CONTAINER_ID> python manage.py createsuperuser
-```
- 
-<br />
 
 ### [Gunicorn](https://gunicorn.org/)
 ---
