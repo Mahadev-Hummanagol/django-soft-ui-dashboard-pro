@@ -1,4 +1,4 @@
-# [Soft UI Dashboard PRO Django](https://appseed.us/product/django-soft-ui-dashboard-pro)
+# [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/)
 
 Soft UI Dashboard is a premium Bootstrap 5 Design now available for download in Django. Made of hundred of elements, designed blocks, and fully coded pages, Soft UI Dashboard PRO is ready to help you create stunning websites and web apps.
 
@@ -19,7 +19,7 @@ Soft UI Dashboard is a premium Bootstrap 5 Design now available for download in 
 
 > Links:
 
-- [Soft UI Dashboard PRO Django](https://appseed.us/product/django-soft-ui-dashboard-pro) - Product Page
+- [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - Product Page
 - [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - LIVE Demo
 
 <br />
