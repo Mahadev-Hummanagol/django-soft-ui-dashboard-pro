@@ -21,9 +21,9 @@
 
 > Links:
 
-- [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - Product Page
-- [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - LIVE Demo
-- [Soft UI Dashboard PRO Django](https://docs.appseed.us/products/django-dashboards/soft-ui-dashboard-pro) - Documentation
+- 👉 [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - Product Page
+- 👉 [Soft UI Dashboard PRO Django](https://django-soft-ui-dashboard-pro.appseed-srv1.com/) - LIVE Demo
+- 👉 [Soft UI Dashboard PRO Django](https://docs.appseed.us/products/django-dashboards/soft-ui-dashboard-pro) - Documentation
 
 <br />
 
