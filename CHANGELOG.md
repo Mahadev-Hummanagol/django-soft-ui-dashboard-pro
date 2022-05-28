@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.4] 2022-06-28
+### Improvements
+
+- Bump UI to `Soft UI Dashboard PRO v1.0.8`
+- Improved `Docker`
+- Improved Codebase
+
 ## [1.0.3] 2021-12-14
 ### Improvements
 
