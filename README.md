@@ -10,10 +10,10 @@
 - Database: `mysql`
 - UI-Ready app, Django Native ORM
 - `Session-Based authentication`, Forms validation
-- Improved Authentication
+- **Improved Authentication**
   - `password strength` indicator
   - `automatic suspension` on consecutive failed logins
-- User profiles
+- **User profiles**
   - Editable profile, image upload via FTP
   - `Superusers` can edit all users
   
