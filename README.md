@@ -11,6 +11,8 @@
 - UI-Ready app, Django Native ORM
 - `Session-Based authentication`, Forms validation
 
+<br />
+
 > Links:
 
 - 👉 [Soft UI Dashboard PRO Django](https://appseed.us/product/soft-ui-dashboard-pro/django/) - Product Page
