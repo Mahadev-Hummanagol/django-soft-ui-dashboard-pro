@@ -1,5 +1,35 @@
 # Change Log
 
+## [1.0.8] 2022-08-08
+### Improvements
+
+- **Social Login** via `Github` & `Twitter`
+- `Change password`, `Self Deletion`
+- `Authentication` via email OR username
+
+## [1.0.7] 2022-07-15
+### Evolutions
+
+- User Settings
+  - Self deletion
+  - Update Password 
+
+## [1.0.6] 2022-07-14
+### Fixes
+
+- Patch Docker set up
+  - now supports the latest evolutions
+
+## [1.0.5] 2022-07-14
+### Improvements
+
+- Improved Authentication
+  - Visual password strength indicator (registration)
+  - Suspend user after 3 failed login attempts
+- New Feature: `User Profiles`
+  - Extended User profile
+  - Image upload via `FTP`
+  
 ## [1.0.4] 2022-06-28
 ### Improvements
 
