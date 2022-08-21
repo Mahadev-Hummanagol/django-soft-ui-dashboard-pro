@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.10] 2022-08-20
+### Fixes & Improvements
+
+- Improved Authentication Flow
+- Docker Scripts Update
+- CleanUp (migration files removed)
+- Minor JS Fixes
+
 ## [1.0.9] 2022-08-16
 ### Fixes & Minor Improvements
 
@@ -35,7 +43,7 @@
 - New Feature: `User Profiles`
   - Extended User profile
   - Image upload via `FTP`
-  
+
 ## [1.0.4] 2022-06-28
 ### Improvements
 
